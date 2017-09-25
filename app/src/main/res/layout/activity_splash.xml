@@ -23,7 +23,7 @@
         android:layout_marginBottom="30dp"
         android:fontFamily="serif-monospace"
         android:gravity="center"
-        android:text="Powered By Butterfly Portal"
+        android:text="Powered By Butterfly Portal/Nidhin"
         android:textColor="@android:color/white"
         android:textSize="15sp"
         android:textStyle="bold" />
